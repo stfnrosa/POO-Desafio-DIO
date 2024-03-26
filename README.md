@@ -1,5 +1,4 @@
 # Criando um Sistema e Abstraindo um Celular com POO em C#
-www.dio.me
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
